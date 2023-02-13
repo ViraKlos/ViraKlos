@@ -1,4 +1,13 @@
-### Hi there 👋
+After coming to Poland in March 2022 from Ukraine I became Microsoft Certified in Power BI Data Analysis. I’m fluent in English and learning Polish. I have about 5 years of experience in Financial Reporting/Analysis at multinational companies in Ukraine and a CIMA Certificate in Business Accounting. All these along with my experience with Big Data while acquiring my master’s in economics (from one of the best economics schools in Eastern Europe) makes me a great candidate for a job as Junior Data Analyst
+
+I'm finishing Business Intelligence bootcamp with Future Collars in Febuary. These are links to my projects within this course so far:
+
+- https://www.mavenanalytics.io/project/2510
+- https://www.mavenanalytics.io/project/2508
+- https://www.mavenanalytics.io/project/1902
+- https://www.mavenanalytics.io/project/1701
+
+
 
 <!--
 **ViraKlos/ViraKlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
